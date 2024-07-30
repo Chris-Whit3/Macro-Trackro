@@ -17,7 +17,7 @@ cmake --install zxing-cpp.release --prefix /usr/local
 
 ### OpenCV (Linux)
 
-'sudo apt install libopencv-dev'
+`sudo apt install libopencv-dev`
 
 ### OpenCV (Windows)
 
